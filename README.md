@@ -1,4 +1,10 @@
-🧠 AI Contract Risk Analyzer
+# 🧠 AI Contract Risk Analyzer
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-10B981?style=for-the-badge&logo=github)](https://kritzz-23.github.io/ai-contract-risk-analyzer/)
+[![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)](https://github.com/Kritzz-23/ai-contract-risk-analyzer)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
+> 🚀 **Interactive Live Application:** [https://kritzz-23.github.io/ai-contract-risk-analyzer/](https://kritzz-23.github.io/ai-contract-risk-analyzer/)
 
 An AI-powered system to analyze legal contracts and identify risk levels using a hybrid approach combining rule-based logic and machine learning classification.
 
